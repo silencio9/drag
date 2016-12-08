@@ -20,8 +20,4 @@ function drag(id){
 }
 
 function tab(id){
-	var obj = document.getElementById(id);
-	var disX = 0;
-
-	
 }
