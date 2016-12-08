@@ -19,5 +19,3 @@ function drag(id){
 	return false;
 }
 
-function tab(id){
-}
