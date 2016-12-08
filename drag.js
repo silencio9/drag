@@ -19,3 +19,10 @@ function drag(id){
 	return false;
 }
 
+
+function tab(id){
+	var obj = document.getElementById(id);
+	var disX = 0;
+	var disY = 0;
+}
+
